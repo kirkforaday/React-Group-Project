@@ -5,7 +5,9 @@ import Product3 from './Components/Product3';
 import Product4 from './Components/Product4';
 function App() {
   return (
-
+    <>
+    <App/>
+    </>
 )
 }
 
