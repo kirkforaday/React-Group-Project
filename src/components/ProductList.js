@@ -21,7 +21,7 @@ import React, {Component} from 'react'
                             <li class= "container__img--1">
                             
                             <div class="frame">
-                            <a href= '/productpage1'><img  alt="handmade ornaments"  src="https://plaidonline.com/getattachment/Learn/LetsPaint/LetsPaintLive/Handmade-Holiday-Ornaments/POL_XMAS_bty_Ornaments_18_101719.jpg" width="400px" height="400px" /></a> 
+                            <a href= '/Product1'><img  alt="handmade ornaments"  src="https://plaidonline.com/getattachment/Learn/LetsPaint/LetsPaintLive/Handmade-Holiday-Ornaments/POL_XMAS_bty_Ornaments_18_101719.jpg" width="400px" height="400px" /></a> 
                             </div>
                             
                             
