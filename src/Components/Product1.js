@@ -1,9 +1,9 @@
-import React, {Component} from 'react';
+import React from 'react';
 import fauci from '../Images/fauci.jpg';
 import CountManager from './PurchaseButton';
 
-class Product1 extends Component {
-    render(){
+
+const Product1 = () => {
       return(
         <div>
           <h1>Fauci Ornament</h1>
@@ -14,6 +14,6 @@ class Product1 extends Component {
         </div>
       );
     }
-  }
+  
 
   export default Product1;

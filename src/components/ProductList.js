@@ -1,20 +1,17 @@
-import React, {Component} from 'react'
+import React from 'react';
 
 
 
 
 
-    class ProductList extends Component {
-        render(){
+    const Home = () => {
             return(
                 <div>
 
                     
 
 
-                    <div class="title">
-                    <h1><strong>Noel Novelties</strong></h1>
-                    </div>
+                    
                 
                     <div >
                         <ul class="container">
@@ -59,6 +56,5 @@ import React, {Component} from 'react'
                 </div>
             );
         }
-    }
     
-export default ProductList;
+export default Home;

@@ -49,7 +49,7 @@ const NavbarContainer = styled.div`
 
 
 nav {
-    background: transparent !important;
+    background: white !important;
     text-align: center;
     list-style: none;
     width: 100%;

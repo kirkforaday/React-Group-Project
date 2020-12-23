@@ -80,7 +80,7 @@ export default Footer;
 
 const FooterContainer = styled.div`
 
-background: transparent !important;
+background: white !important;
 
 ul li {
     list-style: none;
