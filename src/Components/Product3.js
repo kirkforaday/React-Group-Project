@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import disk from '../Images/disk.jpeg';
+import CountManager from './PurchaseButton';
 
 class Product3 extends Component {
     render(){
@@ -9,6 +10,7 @@ class Product3 extends Component {
           <h3>Pretty much sums up how we all feel about 2020 on an attractive faux wood ornament</h3>
           <h4>$14.99</h4>
           <img class="picture" src={disk} alt="2020 Ornament" />
+          <CountManager />
         </div>
       );
     }
