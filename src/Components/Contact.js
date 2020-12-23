@@ -19,9 +19,10 @@ const Contact = () => {
                     placeholder="Please enter your email"/>
                     <button type="submit" className="submit-button">Subscribe</button>
         </>
-    )
+    );
 }
 
+export default Contact;
 
 {/* backup code
     
