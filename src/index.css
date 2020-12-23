@@ -9,6 +9,7 @@ html {
 
 body {
   margin: 0;
+
   font-family: "Philosopher", sans-serif, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
@@ -90,4 +91,5 @@ body {
   grid-column-end: 3;
   grid-row-start: 2;
   grid-row-end: 2;
+
 }
