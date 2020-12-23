@@ -4,15 +4,24 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from '../src/Components/Navbar';
 import {Route, Switch} from 'react-router-dom';
 import Footer from './Components/Footer';
+import Product1 from './Components/Product1';
+import Product2 from './Components/Product2';
+import Product3 from './Components/Product3';
+import Product4 from './Components/Product4';
 
 
 function App() {
   return (
     <>
     <Navbar />
+    <App />
     <Footer />
     </>
   );
-}
 
 export default App;
+
+
+
+
+
