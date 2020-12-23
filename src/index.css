@@ -14,7 +14,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url(group-react-project\src\Components\Assets\snowbackground.webp);
+  background-image: url(../src/Components/Assets/snowbackground.webp);
   background-size: cover;
 }
 
